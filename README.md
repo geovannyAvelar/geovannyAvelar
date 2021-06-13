@@ -35,3 +35,9 @@ Programmer with 3+ years of experience working with software development in a my
 **Operational Systems**
 
 [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://github.com/geovannyAvelar)](https://github.com/geovannyAvelar) [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/geovannyAvelar)](https://github.com/geovannyAvelar)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=geovannyAvelar&theme=monokai&show_icons=true)](https://github.com/gabiqrm/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovannyAvelar&layout=compact&theme=monokai)](https://github.com/gabiqrm/github-readme-stats)
