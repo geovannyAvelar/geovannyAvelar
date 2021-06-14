@@ -24,7 +24,7 @@ Programmer with 3+ years of experience working with software development in a my
 
 [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-ededed?style=flat-square&logo=spring-boot&link=https://github.com/geovannyAvelar)](https://github.com/geovannyAvelar)
 
-**IDE and editors**
+**IDEs and editors**
 
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&link=https://github.com/geovannyAvelar)](https://github.com/geovannyAvelar) [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-5848f4?style=flat-square&logo=intellijidea&link=https://github.com/geovannyAvelar)](https://github.com/geovannyAvelar)
 
