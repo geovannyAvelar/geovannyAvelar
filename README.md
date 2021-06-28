@@ -38,6 +38,6 @@ Programmer with 3+ years of experience working with software development in a my
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=geovannyAvelar&theme=monokai&show_icons=true)](https://github.com/gabiqrm/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=geovannyAvelar&theme=monokai&show_icons=true)](https://github.com/geovannyAvelar/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovannyAvelar&layout=compact&theme=monokai)](https://github.com/gabiqrm/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovannyAvelar&layout=compact&theme=monokai)](https://github.com/geovannyAvelar/github-readme-stats)
